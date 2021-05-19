@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/giphy.gif">
-    <HelloWorld msg="Plataforma de informarción de Museos"/>
+    <HelloWorld msg="Plataforma de información de Museos"/>
   </div>
 </template>
 
